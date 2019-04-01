@@ -51,4 +51,4 @@ You need some configuration before starting Jupyter notebook remotely. See [Runn
 
 ### Opening the notebook
 
-Once Jupyter is running in your browser, find and open the .ipynb file.
+Once Jupyter is running in your browser, find and open the Binary Search Algorithm.ipynb file.
